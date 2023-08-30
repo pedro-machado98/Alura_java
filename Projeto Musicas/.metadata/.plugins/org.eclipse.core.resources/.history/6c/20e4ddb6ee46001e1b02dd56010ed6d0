@@ -1,0 +1,7 @@
+package br.com.pedro.mysongs.calc;
+
+public interface Relevancia {
+	
+	int getRelevancia();
+
+}

@@ -1,0 +1,13 @@
+package br.com.pedro.mysongs.;
+
+
+public class Principal {
+
+	public static void main(String[] args) {
+		
+		Musica musica = new Musica();
+		
+
+	}
+
+}

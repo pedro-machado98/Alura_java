@@ -1,0 +1,8 @@
+package br.com.pedro.mysongs.models;
+
+public class Preferidas {
+	
+	public void inclui(Audio audio) {
+		
+	}
+}
