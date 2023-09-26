@@ -1,3 +1,5 @@
+//DEPRECATED
+
 package br.com.Alura.Compras;
 
 import java.util.HashMap;
