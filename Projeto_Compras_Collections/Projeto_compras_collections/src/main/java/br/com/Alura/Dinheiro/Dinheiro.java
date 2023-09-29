@@ -1,3 +1,5 @@
+//DEPRECATED
+
 package br.com.Alura.Dinheiro;
 
 import java.math.BigDecimal;
