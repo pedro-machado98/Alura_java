@@ -62,13 +62,5 @@ public class Principal {
             System.out.println(dadosVeiculo);
         }
 
-
-//        System.out.println("Digite o codigo do ano da forma que foi desejado.");
-//        leitor = scanner.nextLine();
-//        redireciona = redireciona + "/" + leitor;
-//        json = consumoAPI.obterDados(redireciona);
-//        DadosVeiculo dadosVeiculo = (DadosVeiculo) converteDados.obterDados(json, DadosVeiculo.class);
-//        System.out.println(dadosVeiculo);
-
     }
 }
